@@ -1,0 +1,82 @@
+{
+    "subtitle": "Pricing Plans",
+    "title": "Animation",
+    "items": [
+        {
+            "active": 0,
+            "title": "Standard Package",
+            "subtitle": "1 Month",
+            "price": "₹1,50,000",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Motion Graphics",
+                    "included": 1
+                },
+                {
+                    "label": "2 Days / Full Shift",
+                    "included": 1
+                },
+                {
+                    "label": "Production",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Purchase",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 1,
+            "title": "Pro",
+            "subtitle": "1 Month",
+            "price": "₹1,50,000",
+            "icon": "fas fa-crown",
+            "list": [
+                {
+                    "label": "2D Animation",
+                    "included": 1
+                },
+                {
+                    "label": "Pre Production",
+                    "included": 1
+                },
+                {
+                    "label": "Post Production",
+                    "included": 1
+                }
+                
+            ],
+            "button": {
+                "label": "Purchase",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Advance",
+            "subtitle": "01 Year",
+            "price": "₹2,50,000",
+            "icon": "fas fa-city",
+            "list": [
+                {
+                    "label": "3D Animation",
+                    "included": 1
+                },
+                {
+                    "label": "Pre Production",
+                    "included": 1
+                },
+                {
+                    "label": "Post Production",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Purchase",
+                "link": "/contact"
+            }
+        }
+    ]
+}

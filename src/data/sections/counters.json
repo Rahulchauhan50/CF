@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "value": "54",
+            "label": "User Satisfaction",
+            "after": "%"
+        },
+        {
+            "value": "64",
+            "label": "More Engagement",
+            "after": "%"
+        },
+        {
+            "value": "88",
+            "label": "User Interaction",
+            "after": "%"
+        }
+    ]
+}

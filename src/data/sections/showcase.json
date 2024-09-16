@@ -1,0 +1,9 @@
+{
+    "subtitle": "Featured Services",
+    "title": "Our Offerings",
+    "button": {
+        "label": "Know More",
+        "link": "/projects"
+    },
+    "numOfItems": 8
+}

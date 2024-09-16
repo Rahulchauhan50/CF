@@ -1,0 +1,48 @@
+{
+  "name": "onovo-nextjs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@lordicon/react": "^1.6.0",
+    "@mdbootstrap/react-testimonial-slider": "^1.0.0",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "date-fns": "^2.30.0",
+    "formik": "^2.4.2",
+    "gray-matter": "^4.0.3",
+    "isotope-layout": "^3.0.6",
+    "next": "^13.5.6",
+    "node-sass": "^9.0.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.10.4",
+    "react-bootstrap-carousel": "^4.1.1",
+    "react-countup": "^6.4.2",
+    "react-dom": "18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-modal-video": "^2.0.1",
+    "react-responsive": "^10.0.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-scripts": "^5.0.1",
+    "react-share": "^4.4.1",
+    "react-slick": "^0.30.2",
+    "react-typewriter-effect": "^1.1.0",
+    "remark": "^14.0.3",
+    "remark-html": "^15.0.2",
+    "sass": "^1.49.7",
+    "scroll-out": "^2.2.12",
+    "slick-carousel": "^1.8.1",
+    "splitting": "^1.0.6",
+    "swiper": "10.0.4"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  }
+}

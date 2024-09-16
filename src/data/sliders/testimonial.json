@@ -1,0 +1,24 @@
+{
+    "title":  "Testimonials",
+    "rating": {
+        "value": "4.0",
+        "label": "Rating from all Client's"
+    },
+    "items": [
+        {
+            "name": "Vineet Taneja",
+            "role": "CEO, ACE Automation Engineers",
+            "text": "I urgently needed a video to showcase our quality assurance plan to a japanese customer we were pitching to. Content Foundry came to the rescue. the result was a well crafted video, quick, and optimally priced. I am happy that it helped us in getting our first japanese customer."
+        },
+        {
+            "name": "Payal Majmudar",
+            "role": "Editor, Luxebook",
+            "text": "It was a wholesome experience working with harshita and her team, they're thorough professionals and gave us what we wanted in a reasonable amount of time. The team is creative and accommodating at the same time. I would definitely like to work with them again."
+        },
+        {
+            "name": "Chaitanya Sharma",
+            "role": "Dy Lead - Branding & Communications",
+            "text": "It was a good experience with Content Foundry. The start and the delivery of the project were smooth and the quality of the output was good too. The owner is understanding and would go out of her comfort to deliver. It is a young team working passionately toward it's goal of delivering quality products "
+        }
+    ]
+}
