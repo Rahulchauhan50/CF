@@ -10,3 +10,8 @@ export function middleware(req) {
 
   return NextResponse.next();
 }
+
+// Optional: Configurations to apply middleware only to specific paths
+export const config = {
+  matcher: ['/blogs/:path*'], // Apply middleware only to paths starting with /blogs
+};
